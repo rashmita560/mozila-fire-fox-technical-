@@ -1,0 +1,133 @@
+body{
+    background:orange;
+}
+.toparea{
+    background:white;
+    padding:10px 0;
+    text-align:center;
+}
+.logo{
+    width: 300px;
+    height: 70px;   
+}
+.subscribe{
+    text-decoration:none;
+    color:black;
+}
+.menuarea{
+    background:white;
+    text-align:center;
+}
+.menuarea ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    }
+.menuarea ul li{
+    float:left;
+    }
+.menuarea ul li a:link,.menuarea ul li a:visited{
+    text-decoration:none;
+    color:black;
+    display:block;
+    text-align:center;
+    padding:0px 15px;
+    }
+.slidearea{
+    background:white;
+}
+.slidearea a:link,.slidearea a:visited{
+    text-decoration:none;
+    color:black;
+    }
+.un a:hover{
+    text-decoration:underline;
+}
+		
+.box{
+    width:250px;
+    height:250px;
+    background:white;
+    float:left;
+    }
+.iconicimg{
+    width:100%;
+    height:100%;
+}
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.text-block {
+  position: absolute;
+  bottom: 0px;
+  right: 120px;
+  left:120px;
+  background-color: white;
+  padding: 20px;
+  text-align:center;
+}
+
+.know{
+    background:black;
+    margin:10px 250px;
+    padding:18px 18px;
+    color:white;
+    }
+.bld{
+    font-weight:bold;
+    font-size:13px;
+    letter-spacing:2px;
+}
+.underln a:hover{
+    text-decoration:underline;
+}
+.stay{
+    padding:20px 0;
+    font-size:18px;
+    text-align:center;
+}
+.box{
+    padding:15px 0;
+    font-size:16px;
+    text-align:center;
+}
+.sup{
+    background:black;
+    margin:10px 20px;
+    padding:18px 0;
+    }
+.sup a:link,.sup a:visited{
+    text-decoration:none;
+    color:white;
+    }
+.bottom{    
+    background:black;
+    color:white;
+    padding:10px 0;
+}
+.bottom ul{
+    list-style:none;
+    margin:0;
+    padding:0;    
+}
+
+.bottom ul:nth-child(odd) li{ 
+    float:left;
+}
+.bottom ul li a:link,.bottom ul li a:visited{
+    text-decoration:none;
+    color:white;
+}
+.bottom ul:nth-child(odd) li a:link,.bottom ul:nth-child(odd) li a:visited{
+    display:block;
+    padding:10px 10px;
+    border-right:solid 1px white;
+}
+.bottom ul li a:hover{ 
+    text-decoration:underline;
+}
+
+
